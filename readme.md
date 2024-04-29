@@ -6,13 +6,13 @@ I'm a dedicated college student passionate about Machine Learning and Full-Stack
 
 - **Programming Languages**: Python, JavaScript, Java, C++, C
 - **Machine Learning**: TensorFlow, Keras, scikit-learn, YOLO
-- **Web Development**: HTML, CSS, JAVASCRIPT, DJANGO
+- **Web Development**: HTML, CSS, JavaScript, Django
 - **Databases**: SQL
 - **Design Tools**: Figma, Autocad 2D, Revit
 
 ## 🌐 Find me on the Web
 
-- **LinkedIn**: [[https://linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)](https://www.linkedin.com/in/dhayabharan-m-j-76b3502b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- **LinkedIn**: [https://www.linkedin.com/in/dhayabharan-m-j-76b3502b2](https://www.linkedin.com/in/dhayabharan-m-j-76b3502b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - **Medium**: https://medium.com/@dhayabharanmj
 
 ## 🧠 Problem-Solving Skills
@@ -27,7 +27,7 @@ I've been actively solving problems on LeetCode to improve my problem-solving sk
 - **Medium Problems Solved**: 1
 - **Hard Problems Solved**: 0
 
-You can find my LeetCode profile here: [[https://leetcode.com/yourusername](https://leetcode.com/yourusername)](https://leetcode.com/u/dhayabharanmj/)
+You can find my LeetCode profile here: [https://leetcode.com/u/dhayabharanmj/](https://leetcode.com/u/dhayabharanmj/)
 
 ## 📐 Design Skills
 
@@ -36,5 +36,3 @@ In addition to my coding skills, I also have experience with design tools like F
 ## 📚 Currently Learning
 
 - **Deep Learning**: Exploring advanced deep learning techniques and their applications in various domains.
-
-
