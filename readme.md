@@ -46,7 +46,7 @@ In addition to my coding skills, I also have experience with design tools like F
 - **SQL Server Management Studio**: A comprehensive tool for managing SQL Server databases.
 
 - **Android Studio**: The official integrated development environment (IDE) for Android app development.
-- 
+  
 - **Autocad 2D**: A computer-aided design (CAD) software for 2D drafting and design.
 
 - **Revit**: A building information modeling (BIM) software for architectural design, MEP, structural design, and construction.
