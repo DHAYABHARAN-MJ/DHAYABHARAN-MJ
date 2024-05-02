@@ -36,3 +36,23 @@ In addition to my coding skills, I also have experience with design tools like F
 ## 📚 Currently Learning
 
 - **Deep Learning**: Exploring advanced deep learning techniques and their applications in various domains.
+
+## 🔧 Tools I'm Using
+
+- **Visual Studio Code**: A versatile code editor for various programming languages.
+ ![Visual Studio Code](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png)
+
+- **PyCharm**: A powerful Python IDE for professional developers.
+ ![PyCharm](https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png)
+
+- **SQL Server Management Studio**: A comprehensive tool for managing SQL Server databases.
+ ![SQL Server Management Studio](https://upload.wikimedia.org/wikipedia/en/thumb/7/7d/Microsoft_SQL_Server_Management_Studio.png/300px-Microsoft_SQL_Server_Management_Studio.png)
+
+- **Android Studio**: The official integrated development environment (IDE) for Android app development.
+ ![Android Studio](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Shortcut_Logo.svg/512px-Android_Studio_Shortcut_Logo.svg.png)
+
+- **Autocad 2D**: A computer-aided design (CAD) software for 2D drafting and design.
+ ![Autocad 2D](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/AutoCAD_logo.svg/768px-AutoCAD_logo.svg.png)
+
+- **Revit**: A building information modeling (BIM) software for architectural design, MEP, structural design, and construction.
+ ![Revit](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Revit_icon.svg/768px-Revit_icon.svg.png)
