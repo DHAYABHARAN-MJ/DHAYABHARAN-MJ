@@ -4,7 +4,7 @@ I'm a dedicated college student passionate about Machine Learning and Full-Stack
 
 ## 🚀 My Skills
 
-- **Programming Languages**: Python, JavaScript, Java, C++, C
+- **Programming Languages**: Python, JavaScript, Java, 
 - **Machine Learning**: TensorFlow, Keras, scikit-learn, YOLO
 - **Web Development**: HTML, CSS, JavaScript, Django
 - **Databases**: SQL
@@ -13,7 +13,6 @@ I'm a dedicated college student passionate about Machine Learning and Full-Stack
 ## 🌐 Find me on the Web
 
 - **LinkedIn**: [https://www.linkedin.com/in/dhayabharan-m-j-76b3502b2](https://www.linkedin.com/in/dhayabharan-m-j-76b3502b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- **Medium**: https://medium.com/@dhayabharanmj
 
 ## 🧠 Problem-Solving Skills
 
@@ -22,10 +21,6 @@ I have a strong passion for solving complex problems and continuously improving 
 ## 💻 LeetCode Progress
 
 I've been actively solving problems on LeetCode to improve my problem-solving skills and algorithmic thinking. Here's my current progress:
-
-- **Easy Problems Solved**: 4
-- **Medium Problems Solved**: 1
-- **Hard Problems Solved**: 0
 
 You can find my LeetCode profile here: [https://leetcode.com/u/dhayabharanmj/](https://leetcode.com/u/dhayabharanmj/)
 
@@ -44,10 +39,5 @@ In addition to my coding skills, I also have experience with design tools like F
 - **PyCharm**: A powerful Python IDE for professional developers.
 
 - **SQL Server Management Studio**: A comprehensive tool for managing SQL Server databases.
-
-- **Android Studio**: The official integrated development environment (IDE) for Android app development.
   
 - **Autocad 2D**: A computer-aided design (CAD) software for 2D drafting and design.
-
-- **Revit**: A building information modeling (BIM) software for architectural design, MEP, structural design, and construction.
-
