@@ -44,14 +44,15 @@ A dedicated college student passionate about full-stack development, cloud compu
   <a href="https://leetcode.com/dhayabharanmj/">
     <img src="https://leetcard.jacoblin.cool/dhayabharanmj?theme=dark&font=Montserrat" width="48%">
   </a>
-  
+
   <br>
 
   <!-- GeeksforGeeks Icon with Clickable Link -->
-  <a href="https://auth.geeksforgeeks.org/user/dhayabhxhx0">
+  <a href="https://auth.geeksforgeeks.org/user/dhayabhxhx0" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="120">
   </a>
 </p>
+
 ---
 
 ## 📫 Connect with Me  
