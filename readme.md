@@ -45,12 +45,13 @@ A dedicated college student passionate about full-stack development, cloud compu
     <img src="https://leetcard.jacoblin.cool/dhayabharanmj?theme=dark&font=Montserrat" width="48%">
   </a>
   
-  <!-- GeeksforGeeks Stats -->
-  <a href="https://www.geeksforgeeks.org/user/dhayabhxhx0/">
-    <img src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=dhayabhxhx0" width="48%">
+  <br>
+
+  <!-- GeeksforGeeks Icon with Clickable Link -->
+  <a href="https://auth.geeksforgeeks.org/user/dhayabhxhx0">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="120">
   </a>
 </p>
-
 ---
 
 ## 📫 Connect with Me  
