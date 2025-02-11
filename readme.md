@@ -47,8 +47,9 @@ A dedicated college student passionate about full-stack development, cloud compu
 
   <br>
 
-  <!-- GeeksforGeeks Icon with Clickable Link -->
-  <a href="https://auth.geeksforgeeks.org/user/dhayabhxhx0" target="_blank">
+  <!-- GeeksforGeeks Text + Icon with Clickable Link -->
+  <a href="https://auth.geeksforgeeks.org/user/dhayabhxhx0" target="_blank" style="text-decoration: none;">
+    <strong>GeeksForGeeks: </strong>
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="120">
   </a>
 </p>
