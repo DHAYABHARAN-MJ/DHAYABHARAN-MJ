@@ -1,43 +1,68 @@
-# Hi there! 👋
+# Hi there! 👋  
 
-I'm a dedicated college student passionate about Machine Learning and Full-Stack Development. I'm constantly learning and staying up-to-date with the latest technologies and trends in these fields.
+A dedicated college student passionate about full-stack development, cloud computing, and Data Structures & Algorithms (DSA). Proficient in Java, OOP, and React.js, with experience in Firebase, MySQL, and AWS. Strong problem-solving skills and a keen interest in building scalable and efficient applications. Committed to continuous learning, embracing new technologies, and staying up to date with the latest industry trends.  
 
-## 🚀 My Skills
+---
 
-- **Programming Languages**: Python, JavaScript, Java, 
-- **Machine Learning**: TensorFlow, Keras, scikit-learn, YOLO
-- **Web Development**: HTML, CSS, JavaScript, Django
-- **Databases**: SQL
-- **Design Tools**: Figma, Autocad 2D, Revit
+## 🚀 My Skills  
 
-## 🌐 Find me on the Web
+- **Programming Languages**: Python, Java, C  
+- **Machine Learning**: TensorFlow, Keras, scikit-learn, YOLO  
+- **Web Development**: HTML, CSS, JavaScript, Django  
+- **Frameworks**: React  
+- **Databases**: SQL  
+- **Design Tools**: Figma, AutoCAD 2D, Revit, Canva  
 
-- **LinkedIn**: [https://www.linkedin.com/in/dhayabharan-m-j-76b3502b2](https://www.linkedin.com/in/dhayabharan-m-j-76b3502b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+---
 
-## 🧠 Problem-Solving Skills
+## 📚 Currently Learning  
 
-I have a strong passion for solving complex problems and continuously improving my problem-solving abilities. I regularly practice coding challenges and algorithmic problems on platforms like LeetCode to sharpen my skills in data structures, algorithms, and logical thinking.
+- **Shell Scripting**: Exploring basic Linux commands using Secure Shell (SSH).  
 
-## 💻 LeetCode Progress
+---
 
-I've been actively solving problems on LeetCode to improve my problem-solving skills and algorithmic thinking. Here's my current progress:
+## 🔧 Tools I'm Using  
 
-You can find my LeetCode profile here: [https://leetcode.com/u/dhayabharanmj/](https://leetcode.com/u/dhayabharanmj/)
+<p align="center">
+  <img src="https://img.shields.io/badge/Editor-VS%20Code-blue?style=for-the-badge&logo=visualstudiocode" />
+  <img src="https://img.shields.io/badge/Editor-PyCharm-green?style=for-the-badge&logo=pycharm" />
+  <img src="https://img.shields.io/badge/Database-MySQL-orange?style=for-the-badge&logo=mysql" />
+  <img src="https://img.shields.io/badge/Design-Figma-red?style=for-the-badge&logo=figma" />
+  <img src="https://img.shields.io/badge/Cloud-AWS-yellow?style=for-the-badge&logo=amazonaws" />
+  <img src="https://img.shields.io/badge/Tools-AutoCAD-blue?style=for-the-badge&logo=autodesk" />
+  <img src="https://img.shields.io/badge/Tools-Docker-lightblue?style=for-the-badge&logo=docker" />
+  <img src="https://img.shields.io/badge/Version%20Control-Git-black?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/Version%20Control-GitHub-black?style=for-the-badge&logo=github" />
+</p>
 
-## 📐 Design Skills
+---
 
-In addition to my coding skills, I also have experience with design tools like Figma. I enjoy creating user-friendly and visually appealing designs for web and mobile applications.
+## 🏆 Problem Solving  
 
-## 📚 Currently Learning
-
-- **Deep Learning**: Exploring advanced deep learning techniques and their applications in various domains.
-
-## 🔧 Tools I'm Using
-
-- **Visual Studio Code**: A versatile code editor for various programming languages.
-
-- **PyCharm**: A powerful Python IDE for professional developers.
-
-- **SQL Server Management Studio**: A comprehensive tool for managing SQL Server databases.
+<p align="center">
+  <!-- LeetCode Stats -->
+  <a href="https://leetcode.com/dhayabharanmj/">
+    <img src="https://leetcard.jacoblin.cool/dhayabharanmj?theme=dark&font=Montserrat" width="48%">
+  </a>
   
-- **Autocad 2D**: A computer-aided design (CAD) software for 2D drafting and design.
+  <!-- GeeksforGeeks Stats -->
+  <a href="https://www.geeksforgeeks.org/user/dhayabhxhx0/">
+    <img src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=dhayabhxhx0" width="48%">
+  </a>
+</p>
+
+---
+
+## 📫 Connect with Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/dhayabharanmj">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/DHAYABHARAN-MJ">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:dhayabharanmj@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
