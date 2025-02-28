@@ -17,7 +17,7 @@ A dedicated college student passionate about full-stack development, cloud compu
 
 ## 📚 Currently Learning  
 
-- **Shell Scripting**: Exploring basic Linux commands using Secure Shell (SSH).  
+- **CI/CD**: Currentlu learning about CI/CD pipelines.
 
 ---
 
