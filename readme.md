@@ -17,7 +17,7 @@ A dedicated college student passionate about full-stack development, cloud compu
 
 ## 📚 Currently Learning  
 
-- **CI/CD**: Currentlu learning about CI/CD pipelines.
+- **CI/CD**: Currently learning about CI/CD pipelines.
 
 ---
 
