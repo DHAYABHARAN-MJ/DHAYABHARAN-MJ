@@ -11,7 +11,8 @@ A dedicated college student passionate about full-stack development, cloud compu
 - **Web Development**: HTML, CSS, JavaScript, Django  
 - **Frameworks**: React  
 - **Databases**: SQL  
-- **Design Tools**: Figma, AutoCAD 2D, Revit, Canva  
+- **Design Tools**: Figma, AutoCAD 2D, Revit, Canva
+- **Cloud & DevOps**: AWS, Jenkins and GitHub actions
 
 ---
 
