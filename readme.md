@@ -12,7 +12,7 @@ A dedicated college student passionate about full-stack development, cloud compu
 - **Frameworks**: React  
 - **Databases**: SQL  
 - **Design Tools**: Figma, AutoCAD 2D, Revit, Canva
-- **Cloud & DevOps**: AWS, Jenkins and GitHub actions
+- **Cloud & DevOps**: AWS, Jenkins, Docker and GitHub actions
 
 ---
 
